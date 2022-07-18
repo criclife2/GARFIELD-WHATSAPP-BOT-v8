@@ -15,14 +15,7 @@ global.APIKeys = {
 // 👈 You Can change this your choice
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
-global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
-*I am a Learning.*
-*Not more..*
-*Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
+global.notice = ``  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+94762511600'] //👈  Enter Your number
 global.premium =  ['+94762511600'] //👈  Enter Your number
 global.ownernomer = '+94762511600' //👈  Enter Your number
@@ -32,7 +25,7 @@ global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝘔𝘪𝘴𝘴 𝘘�
 global.ig = '' // 👈 You Can change this your choice
 global.region = 'Sri lanka' // 👈 You Can change this your choice
 global.sc = ''
-global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now) 
+global.fbt = '' // 👈 Enter (Subscribe/Follow/Like now) 
 global.myweb = '' // 👈 Enter your Social media link to follow now button
 global.packname = '💆‍♂️#𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙_𝚋𝚘𝚝 24/7💆‍♂️'  // 👈 You Can change this your choice 
 global.author = '𝖡𝗒 𝘔𝘪𝘴𝘴 𝘘𝘦𝘦𝘯' // 👈 You Can change this your choice 
